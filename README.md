@@ -1,0 +1,2 @@
+# airbyte-opengauss-datavec
+airbyte适配opengauss向量数据库的destination connector
